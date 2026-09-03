@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./assets/Sem%20t%C3%ADtulo%20-%2003%20de%20setembro%20de%202026%20%C3%A0s%2019.02.07.gif"
+    src="./assets/gifinho.gif"
     width="600"
     alt="Banner animado Danielle Soares"
   />
