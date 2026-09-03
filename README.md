@@ -20,21 +20,29 @@ Atualmente estou concluindo minha formação em **Java Full Stack pela Generatio
 
 ## Tecnologias
 
-**Front-end**
+### Front-end
 
-`React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+</p>
 
-**Back-end**
+### Back-end
 
-`Java` `Spring Boot` `Spring Security` `JWT` `REST APIs`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 
-**Banco de Dados**
+### Banco de Dados
 
-`MySQL` `PostgreSQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-**Ferramentas**
+### Ferramentas
 
-`Git` `GitHub` `Vite` `Maven` `Axios` `Jest` `Insomnia`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
