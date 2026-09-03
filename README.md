@@ -1,6 +1,8 @@
 <p align="center">
   <img
-    src="./assets/Video%20Project%204.gif"width="700"alt="Banner animado Danielle Soares"
+    src="./assets/banner.gif"
+    width="700"
+    alt="Banner animado Danielle Soares"
   />
 </p>
 
