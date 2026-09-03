@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Video%20Project%201.gif" width="100%" alt="Banner animado Danielle Soares">
+  <img src="./assets/Video Project 1.mp4">
 </p>
 
 # Oi, eu sou a Danielle! 👋🏾
