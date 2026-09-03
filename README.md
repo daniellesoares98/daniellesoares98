@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./assets/gifinho.gif"
+    src="./assets/gifinho2.gif"
     width="600"
     alt="Banner animado Danielle Soares"
   />
